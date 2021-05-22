@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Processors force electrons to do the math.**
 
-<h3 align="left">Connect with me:</h3>
+
 ### Connect with me:
 
 [<img align="left" alt="raghavxk9 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
