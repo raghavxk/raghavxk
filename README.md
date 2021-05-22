@@ -1,4 +1,4 @@
-### Hi there ,I'm Raghavendra aka raghavxk👋
+## Hi there ,I'm Raghavendra aka raghavxk👋
 
 ## I'm a competitive-programmer, developer, pc junkie and gamer!! 
 
@@ -22,4 +22,4 @@
 
 [twitter]: https://twitter.com/raghavxk9
 [instagram]: https://instagram.com/raghavendra.khare_/
-[linkedin]: raghavendra-khare-1646281b7/
+[linkedin]: https://www.linkedin.com/in/raghavendra-khare-1646281b7/
