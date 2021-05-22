@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning node.js
 - 👯 I’m looking to collaborate on backend webd projects
 - 🤔 I’m looking for help with node.js
-- 💬 Ask me about pc hardware, processors ,anything technical.
+- 💬 Ask me about pc hardware, pc builds and anything technical.
 - 📫 How to reach me: raghavxk@gmail.com
 - ⚡ Fun fact: Processors force electrons to do math.
 - 🥅 In my free time I can be found gaming, jogging or listening to music.
