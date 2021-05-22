@@ -20,7 +20,7 @@
 <br />
 
 ---
-![raghavxk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavxk&show_icons=true&theme=radical)
+![raghavxk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavxk&show_icons=true&theme=radical&count_private=true)
 
 
 
