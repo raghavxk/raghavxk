@@ -20,7 +20,8 @@
 <br />
 
 ---
-<img align="left" alt="raghavxk github stats" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"></img>
+![raghavxk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavxk&show_icons=true&theme=radical)
+
 
 
 
