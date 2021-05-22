@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: raghavxk@gmail.com
 - ⚡ Fun fact: Processors force electrons to do math.
 -->
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=raghavxk&theme=blue-green />
