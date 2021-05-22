@@ -19,6 +19,11 @@
 
 <br />
 
+---
+<img align="left" alt="raghavxk github stats" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"></img>
+
+
+
 
 [twitter]: https://twitter.com/raghavxk9
 [instagram]: https://instagram.com/raghavendra.khare_/
