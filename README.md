@@ -34,10 +34,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
-<br />
-<br />
-
-
 [twitter]: https://twitter.com/raghavxk9
 [instagram]: https://instagram.com/raghavendra.khare_/
 [linkedin]: https://www.linkedin.com/in/raghavendra-khare-1646281b7/
