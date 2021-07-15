@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavxk&label=Profile%20views&color=0e75b6&style=flat" alt="raghavxk" /> </p>
 
-<p align="left"> <a href="https://twitter.com/raghavxk" target="blank"><img src="https://img.shields.io/twitter/follow/raghavxk9?logo=twitter&style=for-the-badge" alt="raghavxk9" /></a> </p>
+<p align="left"> <a href="https://twitter.com/raghavxk" target="blank"><img src="https://img.shields.io/twitter/follow/raghavxk?logo=twitter&style=for-the-badge" alt="raghavxk" /></a> </p>
 
 - 🔭 I’m currently working on **node.js**
 
