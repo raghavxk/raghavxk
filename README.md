@@ -22,7 +22,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="raghavxk9 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="raghavxk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="raghavxk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="raghavxk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -37,7 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavxk&" alt="raghavxk" /></p>
 
-[twitter]: https://twitter.com/raghavxk9
+[twitter]: https://twitter.com/raghavxk
 [instagram]: https://instagram.com/raghavendra.khare_/
 [linkedin]: https://www.linkedin.com/in/raghavendra-khare-1646281b7/
 
