@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/raghavxk" target="blank"><img src="https://img.shields.io/twitter/follow/raghavxk?logo=twitter&style=for-the-badge" alt="raghavxk" /></a> </p>
 
-- 🔭 I’m currently working on **node.js**
-
-- 🌱 I’m currently learning **node,js**
+- 🔭 I’m currently working on **Django**
 
 - 👯 I’m looking to collaborate on **backend dev**
-
-- 🤝 I’m looking for help with **node.js**
 
 - 💬 Ask me about **pc hardware, pc builds and anything technical**
 
