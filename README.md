@@ -29,6 +29,3 @@
 <img height="172em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavxk&layout=compact&theme=react&hide_border=true"/>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavxk&show_icons=true&locale=en" alt="raghavxk" /></p>
-
