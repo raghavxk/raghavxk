@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 📝 I regularly write articles on [hashnode](https://raghavxk.hashnode.dev/)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/raghavxk)
 
 - 💬 Ask me about **C++, Python, Cybersecurity and PC builds**
 
