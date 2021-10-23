@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on **[Dev.to](https://dev.to/raghavxk)**
 
-- 💬 Ask me about **Backend Development, Blockachains and PC**
+- 💬 Ask me about **Backend Development, Blockchains and PC**
 
 - 📫 How to reach me **raghavxk@gmail.com**
 
