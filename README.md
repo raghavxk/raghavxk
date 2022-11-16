@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 Hi!! I am Raghavendra. You'll find me working on the server-side.
 
 
@@ -10,4 +10,28 @@ Hi!! I am Raghavendra. You'll find me working on the server-side.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raghavxk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raghavxk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavxk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavxk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+<div align="center">
+  <img src="https://github.com/raghavxk/raghavxk/blob/main/assets/Black%20and%20White%20Minimalist%20Twitter%20Header.png?raw=true" align="center"/>
+</div>
+
+<br>
+
+# 💫 About me
+- Hobbyist Developer and final year IT student from India
+- Backend Developer at [SuperShare](https://ssup.co/)
+- Experienced in Python, Go, Django, DRF, Go-Gin, Postgres, MongoDB, Redis, Apache Kafka.
+- I try writing at <a href="https://dev.to/raghavxk" target="_blank"> Dev.To </a> and <a href="http://medium.com/@raghavxk" target="_blank"> Medium</a>.
+- talk to me about tech, history and PC games.
+
+# 🌐 Contact me
+<div>
+  <a href="https://twitter.com/raghavxk" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter;" />
+  </a>
+  <a href="https://linkedin.com/in/raghavxk" target="_blank">
+    <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin;" />
+  </a>
+
+</div>
