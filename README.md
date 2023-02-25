@@ -21,7 +21,7 @@ Hi!! I am Raghavendra. You'll find me working on the server-side.
 # 💫 About me
 - Hobbyist Developer and final year IT student from India
 - Backend Developer at [SuperShare](https://ssup.co/)
-- Experienced in Python, Go, Django, DRF, Go-Gin, Postgres, MongoDB, Redis, Apache Kafka.
+- Experienced in Python, Go, Django, PostgreSQL, MongoDB, Redis, Apache Kafka.
 - I try writing at <a href="https://dev.to/raghavxk" target="_blank"> Dev.To </a> and <a href="http://medium.com/@raghavxk" target="_blank"> Medium</a>.
 - talk to me about tech, history and PC games.
 
