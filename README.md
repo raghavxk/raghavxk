@@ -1,6 +1,6 @@
 Joined Github **6** years ago.
 
-Since then I pushed **654** commits, opened **3** issues, submitted **958** pull requests, received **22** stars across **54** personal projects and contributed to **1** public repositories.
+Since then I pushed **654** commits, opened **3** issues, submitted **959** pull requests, received **22** stars across **54** personal projects and contributed to **1** public repositories.
 
 Most used languages across my projects:
 
